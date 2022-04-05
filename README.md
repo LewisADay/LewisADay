@@ -1,4 +1,7 @@
+# Lewis A. Day
+
 MSc Advanced Computer Science Student
+
 University of Exeter
 
 Have previously worked in C, C++, Python, C#, and, HTML+CSS.
